@@ -1,0 +1,2 @@
+eract-OCR\tesseract . exe"
+
